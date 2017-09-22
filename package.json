@@ -1,0 +1,21 @@
+{
+  "name": "torrent_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "bunyan": "^1.8.10",
+    "cheerio": "^1.0.0-rc.1",
+    "deluge": "^1.7.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4",
+    "string-similarity": "^1.2.0",
+    "textbelt": "0.0.3"
+  }
+}
